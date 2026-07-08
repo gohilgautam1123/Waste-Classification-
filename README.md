@@ -206,12 +206,4 @@ http://127.0.0.1:5000
 
 ---
 
-## 👨‍💻 Developer
 
-| Field | Detail |
-|---|---|
-| **Name** | Kirtan Khasiya |
-| **ID** | 22IT145 |
-| **Email** | 22it145@svitvasad.ac.in |
-| **College** | SVIT Vasad |
-| **Department** | Information Technology |
